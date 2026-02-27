@@ -1,0 +1,26 @@
+{
+  "campaignName": "Summer Refresh 2025",
+  "brand": {
+    "name": "FreshCo",
+    "colors": ["#00A86B", "#FFFFFF", "#1B1B1B"],
+    "logoPath": "input-assets/freshco-logo.png"
+  },
+  "products": [
+    {
+      "id": "sparkling-water",
+      "name": "FreshCo Sparkling Water",
+      "description": "A refreshing bottle of sparkling water with lime slices, condensation droplets on glass bottle, bright summer outdoor setting",
+      "existingAsset": null
+    },
+    {
+      "id": "green-tea",
+      "name": "FreshCo Green Tea",
+      "description": "Premium organic Japanese green tea in an elegant glass bottle, surrounded by fresh green tea leaves, zen garden background",
+      "existingAsset": null
+    }
+  ],
+  "targetRegion": "US - West Coast",
+  "targetAudience": "Health-conscious millennials, 25-35",
+  "campaignMessage": "Stay Fresh This Summer",
+  "aspectRatios": ["1:1", "9:16", "16:9"]
+}
